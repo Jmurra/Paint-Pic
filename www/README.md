@@ -1,0 +1,1 @@
+PaintPic is an app that i am working on. Its in the making as of currently. The idea is too have a drawing app Using the html5 canvas element hopefully I want to make it a responsive app so you can view and use it on multiple different screens, and hopefully available to different mobile platforms Like Android Or Ios platforms maybe even windows phone's.
